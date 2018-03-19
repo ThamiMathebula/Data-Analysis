@@ -2,22 +2,22 @@
 Analysis of the Titanic dataset
 
 # Questions:
-•	How many passengers were in the Titanic?
-•	How much was the maximum fare price paid?
-•	How much was the minimum fare price paid?
-•	What is the standard deviation and average of the fare prices?
-•	How passengers survived/died?
-•	Of those who survived, how many were females/males?
-•	Of those who survived, how many were children/Adults?
-•	How many people were in the 1st ,2nd, and 3rd classes?
-•	How many males/ females were on the ship?
-•	How many people died on each class?
-•	How many people survived on each class?
-•	How old was the youngest person on the ship?
-•	How old was the oldest person on the ship?
-•	What is the standard deviation and average of the passengers’ ages?
-•	Did the classes influence the survivability of the passengers? 
-•	Did the passengers’ age influence the survivability of the passengers?
+•	How many passengers were in the Titanic?<br>
+•	How much was the maximum fare price paid?<br>
+•	How much was the minimum fare price paid?<br>
+•	What is the standard deviation and average of the fare prices?<br>
+•	How passengers survived/died?<br>
+•	Of those who survived, how many were females/males?<br>
+•	Of those who survived, how many were children/Adults?<br>
+•	How many people were in the 1st ,2nd, and 3rd classes?<br>
+•	How many males/ females were on the ship?<br>
+•	How many people died on each class?<br>
+•	How many people survived on each class?<br>
+•	How old was the youngest person on the ship?<br>
+•	How old was the oldest person on the ship?<br>
+•	What is the standard deviation and average of the passengers’ ages?<br>
+•	Did the classes influence the survivability of the passengers? <br>
+•	Did the passengers’ age influence the survivability of the passengers?<br>
 
 # Data Wrangling:
   Removed the Ticket column since it is unnecessary for the data analysis.
